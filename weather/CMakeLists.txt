@@ -2,9 +2,8 @@ project(weather)
 
 find_package(CURL REQUIRED)
 
-add_executable(
-    weather
-    ${CMAKE_CURRENT_SOURCE_DIR}/weather.cpp
+add_executable(weather
+    weather.cpp
 )
 
 target_include_directories(
