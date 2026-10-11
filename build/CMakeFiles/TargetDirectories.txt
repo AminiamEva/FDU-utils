@@ -1,0 +1,5 @@
+/mnt/d/Projects/FDU-utils/build/CMakeFiles/edit_cache.dir
+/mnt/d/Projects/FDU-utils/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/Projects/FDU-utils/build/weather/CMakeFiles/weather.dir
+/mnt/d/Projects/FDU-utils/build/weather/CMakeFiles/edit_cache.dir
+/mnt/d/Projects/FDU-utils/build/weather/CMakeFiles/rebuild_cache.dir

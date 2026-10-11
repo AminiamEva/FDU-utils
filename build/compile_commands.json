@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/mnt/d/Projects/FDU-utils/build/weather",
+  "command": "/usr/bin/g++  -I/mnt/d/Projects/FDU-utils/include -I/mnt/d/Projects/FDU-utils/third-party -I/mnt/d/Projects/FDU-utils/weather/include -I/mnt/d/Projects/FDU-utils/weather/third-party -g -std=gnu++20 -o CMakeFiles/weather.dir/weather.cpp.o -c /mnt/d/Projects/FDU-utils/weather/weather.cpp",
+  "file": "/mnt/d/Projects/FDU-utils/weather/weather.cpp",
+  "output": "weather/CMakeFiles/weather.dir/weather.cpp.o"
+}
+]

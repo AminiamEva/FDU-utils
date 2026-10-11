@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/mnt/d/Projects/FDU-utils/build/cmake_install.cmake",
+		"/mnt/d/Projects/FDU-utils/build/weather/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
